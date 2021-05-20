@@ -3,36 +3,36 @@ This project aims to imitates one of every computer most common programs, which 
 
 # The project includes the following files:
 
- 1- Source files of the program (.c & .h):
+1- Source files of the program (.c & .h):
  
-  		a.	assemble.c	- Main File
+ a.	assemble.c	- Main File
+  
+ b.	assemble.h	- Main Functions Declaration
+  
+ c.	binary.c	- Binary Translation Functions
+     
+ d.	data.h		- Data Structures
+   
+ e.	files.c		- File Handling Functions
     
-  		b.	assemble.h	- Main Functions Declaration
+ f.	passes.c	- First Pass & Second Pass Functions
     
-    c.	binary.c	- Binary Translation Functions
+ g.	symtab.h	- Symbol Table Structure & Declaration
+    
+ h.	symtab.h	- Symbol Table Functions
+    
+ i.	utils.h		- Utilities Macros & Declarations
+    
+ j.	utils.c		- Utilities Functions
+    
+ k.	values.h	- Assembly Language Binary Values
+    
+2- Runtime file for Ubuntu (Compiled and linked).
+ 
+3- Makefile (Compiled with gcc with the flags -Wall -ansi -pedantic, with no messages or warning from the compiler).
+ 
+4- Runtime Examples:
+ 
+ a.	Input in Assembly, Output as a result of the using the assembler on the input files, showing use of different orders and data structures.
       
- 		 d.	data.h		- Data Structures
-    
-  		e.	files.c		- File Handling Functions
-    
-  		f.	passes.c	- First Pass & Second Pass Functions
-    
-  		g.	symtab.h	- Symbol Table Structure & Declaration
-    
-  		h.	symtab.h	- Symbol Table Functions
-    
-  		i.	utils.h		- Utilities Macros & Declarations
-    
-  		j.	utils.c		- Utilities Functions
-    
-  		k.	values.h	- Assembly Language Binary Values
-    
- 2- Runtime file for Ubuntu (Compiled and linked).
- 
- 3- Makefile (Compiled with gcc with the flags -Wall -ansi -pedantic, with no messages or warning from the compiler).
- 
- 4- Runtime Examples:
- 
- 	   a.	Input in Assembly, Output as a result of the using the assembler on the input files, showing use of different orders and data structures.
-      
-  	  b. 	Input in Assembly Displaying various error types (with no output files) and screenshots showing the errors.
+ b. 	Input in Assembly Displaying various error types (with no output files) and screenshots showing the errors.

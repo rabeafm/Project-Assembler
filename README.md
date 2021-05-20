@@ -33,6 +33,7 @@ This project aims to imitates one of every computer most common programs, which 
  
 4- Runtime Examples:
  
-    a.	Input in Assembly, Output as a result of the using the assembler on the input files, showing use of different orders and data structures.
+    a.	Input in Assembly, Output as a result of the using the assembler on the input files, showing use of different orders and
+       data structures.
       
     b. 	Input in Assembly Displaying various error types (with no output files) and screenshots showing the errors.

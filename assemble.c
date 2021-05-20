@@ -3,7 +3,7 @@
 /*--------------------------------------------------------------*
  *		 		Introduction to the Assembler	   				*
  *--------------------------------------------------------------*
- * @author Rabea Fahoum											*
+ * @author RabeaF											*
  * This project aims to immitates one of every computer	most 	*
  * common programs, which is an Assembler. This project was 	*
  * built as	a final homework for the academic course in the 	*

@@ -5,27 +5,27 @@ This project aims to imitates one of every computer most common programs, which 
 
 1- Source files of the program (.c & .h):
  
- a.	assemble.c	- Main File
+    a.	assemble.c	- Main File
   
- b.	assemble.h	- Main Functions Declaration
+    b.	assemble.h	- Main Functions Declaration
   
- c.	binary.c	- Binary Translation Functions
+    c.	binary.c	- Binary Translation Functions
      
- d.	data.h		- Data Structures
+    d.	data.h		- Data Structures
    
- e.	files.c		- File Handling Functions
+    e.	files.c		- File Handling Functions
     
- f.	passes.c	- First Pass & Second Pass Functions
+    f.	passes.c	- First Pass & Second Pass Functions
     
- g.	symtab.h	- Symbol Table Structure & Declaration
+    g.	symtab.h	- Symbol Table Structure & Declaration
     
- h.	symtab.h	- Symbol Table Functions
+    h.	symtab.h	- Symbol Table Functions
     
- i.	utils.h		- Utilities Macros & Declarations
+    i.	utils.h		- Utilities Macros & Declarations
     
- j.	utils.c		- Utilities Functions
+    j.	utils.c		- Utilities Functions
     
- k.	values.h	- Assembly Language Binary Values
+    k.	values.h	- Assembly Language Binary Values
     
 2- Runtime file for Ubuntu (Compiled and linked).
  
@@ -33,6 +33,6 @@ This project aims to imitates one of every computer most common programs, which 
  
 4- Runtime Examples:
  
- a.	Input in Assembly, Output as a result of the using the assembler on the input files, showing use of different orders and data structures.
+    a.	Input in Assembly, Output as a result of the using the assembler on the input files, showing use of different orders and data structures.
       
- b. 	Input in Assembly Displaying various error types (with no output files) and screenshots showing the errors.
+    b. 	Input in Assembly Displaying various error types (with no output files) and screenshots showing the errors.
